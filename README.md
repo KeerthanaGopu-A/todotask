@@ -45,14 +45,15 @@ npm start
 
 ## 🌍 Deployment
 
-- **Frontend**: Deploy to Vercel (Ensure build command is `npm run build`).
-- **Backend**: Deploy to Render/Railway.
+- **Frontend**: [https://todotask-sigma.vercel.app/](https://todotask-sigma.vercel.app/)
+- **Backend**: [https://todo-task-giuw.onrender.com](https://todo-task-giuw.onrender.com)
 - **Database**: Use Supabase for cloud PostgreSQL.
 
 ## 📸 Screenshots
-*(Placeholders for new UI)*
-- **Login Page**: Centered glass card on gradient background.
-- **Dashboard**: Two-column layout with Chart on left, Tasks on right.
+![Dashboard](./screenshots/Screenshot%20(11).png)
+![Tasks](./screenshots/Screenshot%20(12).png)
+![Login](./screenshots/Screenshot%20(13).png)
+![Register](./screenshots/Screenshot%20(14).png)
 
 ---
 **Author**: Built with ❤️ for the assignment.
